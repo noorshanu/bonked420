@@ -14,7 +14,7 @@ function Footer() {
               <img src="images/foot.png" alt="" className=" h-[30px] sm:h-[110px] my-2 sm:my-8 sm:mx-0 mx-auto"  />
 
               <div className=" flex items-center gap-4 text-white mb-6 ml-5">
-              <a
+              {/* <a
                   href="http://twitter.com/bonked420"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
@@ -28,7 +28,7 @@ function Footer() {
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
-                </a>
+                </a> */}
               </div>
 
             <p>Copyright 2024 Bonked420  All Rights Reserved.</p>

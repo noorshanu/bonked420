@@ -29,7 +29,7 @@ function Navbar() {
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
         <div className=" flex items-center gap-4 text-white mb-6 ml-5">
-        <a
+        {/* <a
                   href="http://twitter.com/bonked420"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
@@ -43,7 +43,7 @@ function Navbar() {
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
-                </a>
+                </a> */}
               </div>
         </div>
 
