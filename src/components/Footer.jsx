@@ -24,7 +24,7 @@ function Footer() {
            
 
                 <a
-                  href="https://t.me/bonked420" target="_blank"
+                  href="https://t.me/bonkedglitchbonked420" target="_blank"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />

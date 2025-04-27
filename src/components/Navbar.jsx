@@ -39,7 +39,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/" target="_blank"
+                  href="https://t.me/bonkedglitch" target="_blank"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]" rel="noreferrer"
                 >
                   <FaTelegram />
@@ -102,7 +102,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/" target="_blank"
+                  href="https://t.me/bonkedglitch" target="_blank"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]" rel="noreferrer"
                 >
                   <FaTelegram />
