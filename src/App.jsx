@@ -4,7 +4,7 @@ import ChooseHero from "./components/ChooseHero";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Roadmap from "./components/Roadmap";
+
 
 function App() {
   return (

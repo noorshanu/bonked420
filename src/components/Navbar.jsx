@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
-import { BsTwitterX, BsInstagram, BsFacebook } from "react-icons/bs";
-import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
+import { BsTwitterX,} from "react-icons/bs";
+import {  FaTelegram } from "react-icons/fa6";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,7 +12,7 @@ function Navbar() {
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="images/WhatsApp_Image_2024-04-22_at_3.39.11_AM-removebg-preview.png" className="h-[100px]" alt=" Logo" />
+          <img src="images/logo.png" className="h-[100px]" alt=" Logo" />
         </a>
 
         </div>
@@ -29,8 +29,8 @@ function Navbar() {
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
         <div className=" flex items-center gap-4 text-white mb-6 ml-5">
-        {/* <a
-                  href="http://twitter.com/bonked420"
+        <a
+                  href="http://twitter.com/"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -39,11 +39,11 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/bonked420" target="_blank"
-                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                  href="https://t.me/" target="_blank"
+                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]" rel="noreferrer"
                 >
                   <FaTelegram />
-                </a> */}
+                </a>
               </div>
         </div>
 
@@ -93,7 +93,7 @@ function Navbar() {
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
-                  href="https://x.com/bonkk_3"
+                  href="https://x.com/"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -102,8 +102,8 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/bonkeds" target="_blank"
-                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                  href="https://t.me/" target="_blank"
+                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]" rel="noreferrer"
                 >
                   <FaTelegram />
                 </a>

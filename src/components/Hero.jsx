@@ -6,7 +6,7 @@ function Hero() {
   
       <div className=" container-wrapper pt-[25%] sm:pt-[6%] ">
         <div>
-          <img src="images/hero-txt.png" alt="" className=" mx-auto h-auto sm:h-[300px] w-auto my-[1.5%]" />
+          <img src="images/logo.png" alt="" className=" mx-auto h-auto sm:h-[300px] w-auto my-[1.5%]" />
         {/* <a href="/" className="text-sm sm:text-2xl font-bold text-center flex justify-center my-4"> </a> */}
 
          
